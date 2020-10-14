@@ -4,15 +4,28 @@ html body {
 }
 
 header {
-	padding-left: 40px;
-	padding-top: 20px;
+	padding-left: 100px;
+  padding-top: 20px;
 }
 
 .vendor-wrapper {
-	justify-content: left;
+  justify-content: left;
 	padding-left: 40px;
 	padding-top: 20px;
 	padding-bottom: 20px;
+}
+
+.vendor-wrapper2{
+  margin-top:2%;
+}
+
+#mp1-added, #mp2-added, #mp3-added, #mp4-added{
+  margin-left: 5%;
+  color: red;
+}
+
+#description{
+  margin-top: 2%;
 }
 
 .vendor-photo {
